@@ -1,0 +1,45 @@
+.bop {
+
+   
+   
+    background-color: aliceblue;
+    width: 1310px;
+    height: 60vh;
+    margin-left: 20rem;
+     margin-right: 10rem;
+     /* border-radius: 15px ; */
+     padding: 65px 0px 20px 0px;
+   
+    }
+    
+    
+    .boi2 {
+        text-align: center;
+    
+       
+      
+    }
+    button{
+        width: 245px;
+        height: 55px;
+        left: 503px;
+        top: 676px;
+
+        background: #abdf6c;
+        border-radius: 18px;
+        border: none;
+    }
+    button:hover{
+        background: #abad89;
+    }
+    .boi1 {
+        text-align: center;
+     }
+     .boi2 a{
+         text-decoration: none;
+         font-size: 20px;  
+         color: #fff;
+     }
+     .boi2 a:hover{
+        font-size: 22px;
+    }
